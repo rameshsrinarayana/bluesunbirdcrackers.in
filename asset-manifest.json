@@ -1,8 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.c90e0f5c.css",
-    "main.js": "/static/js/main.8ddba4d4.js",
+    "main.css": "/static/css/main.3b3bf582.css",
+    "main.js": "/static/js/main.16075d9e.js",
+    "static/css/11.bd4b744f.chunk.css": "/static/css/11.bd4b744f.chunk.css",
+    "static/js/11.98d391b4.chunk.js": "/static/js/11.98d391b4.chunk.js",
     "static/js/206.f6e72539.chunk.js": "/static/js/206.f6e72539.chunk.js",
+    "static/js/873.5b18f8cd.chunk.js": "/static/js/873.5b18f8cd.chunk.js",
     "static/media/abutous-img.png": "/static/media/abutous-img.f9e54093b1f076ba8ac7.png",
     "static/media/GreatVibes-Regular.ttf": "/static/media/GreatVibes-Regular.f51f1a4f2cd0c9611249.ttf",
     "static/media/safetytipimg.png": "/static/media/safetytipimg.31eee977be13535ca364.png",
@@ -40,7 +43,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.c90e0f5c.css",
-    "static/js/main.8ddba4d4.js"
+    "static/css/main.3b3bf582.css",
+    "static/js/main.16075d9e.js"
   ]
 }
